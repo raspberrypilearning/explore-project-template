@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, <mark>short project description </mark>
+In this project, <mark> short project description </mark>
 
 <mark>Boxout (wherever wanted/needed) </mark>
 
@@ -20,7 +20,7 @@ You will:
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Description of what to do or think about when looking at these
+Description of what to do or think about when looking at the example.
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
