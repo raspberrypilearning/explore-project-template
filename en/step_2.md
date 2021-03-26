@@ -21,9 +21,9 @@ Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scrat
 
 Step content... 
 Can use:
-**test**
-**choose**
-**tip**
+**Test:**
+**Choose:**
+**Tip:**
 
 --- /task ---
 
